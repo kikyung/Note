@@ -1,0 +1,10 @@
+  spring:
+    application:
+      name: Java_2025
+    ai:
+      openai:
+        chat:
+          enabled: false
+        embedding:
+          enabled: false
+        api-key: 1
